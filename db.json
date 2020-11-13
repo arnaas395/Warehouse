@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "Name": "Chocolate \"Brownie\"",
+      "EAN": "950110153001",
+      "Type": "Sweet",
+      "Weight": "0.5",
+      "Color": "Brown",
+      "Quantity": "26",
+      "Price": "4",
+      "Active": false,
+      "id": "1"
+    },
+    {
+      "Name": "Pork",
+      "EAN": "950110153002",
+      "Type": "Meat",
+      "Weight": "1",
+      "Color": "Red",
+      "Quantity": "0",
+      "Price": "15",
+      "Active": true,
+      "id": "2"
+    },
+    {
+      "Name": "Bread",
+      "EAN": "950110153003",
+      "Type": "Wheat",
+      "Weight": "0.5",
+      "Color": "Brown",
+      "Quantity": "20",
+      "Price": "4",
+      "Active": "on",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "Name": "Lollypop",
+      "EAN": "950110153004",
+      "Type": "Sweet",
+      "Weight": "0.1",
+      "Color": "Green",
+      "Quantity": "100",
+      "Price": "0.50",
+      "Active": true
+    },
+    {
+      "Name": "Lollypop",
+      "EAN": "950110153005",
+      "Type": "Sweet",
+      "Weight": "0.1",
+      "Color": "Yellow",
+      "Quantity": "0",
+      "Price": "0.40",
+      "Active": false,
+      "id": "5"
+    },
+    {
+      "Name": "Milk",
+      "EAN": "950110153008",
+      "Type": "Milk",
+      "Weight": "30",
+      "Color": "White",
+      "Quantity": "52",
+      "Price": "1",
+      "Active": false,
+      "id": "PNCG6vK"
+    }
+  ]
+}
